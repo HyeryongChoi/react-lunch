@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-lunch/static/css/main.372ed27e.css",
-    "main.js": "/react-lunch/static/js/main.38cc11b4.js",
+    "main.js": "/react-lunch/static/js/main.fe40dfef.js",
     "index.html": "/react-lunch/index.html",
     "main.372ed27e.css.map": "/react-lunch/static/css/main.372ed27e.css.map",
-    "main.38cc11b4.js.map": "/react-lunch/static/js/main.38cc11b4.js.map"
+    "main.fe40dfef.js.map": "/react-lunch/static/js/main.fe40dfef.js.map"
   },
   "entrypoints": [
     "static/css/main.372ed27e.css",
-    "static/js/main.38cc11b4.js"
+    "static/js/main.fe40dfef.js"
   ]
 }
